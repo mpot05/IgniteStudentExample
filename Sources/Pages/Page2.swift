@@ -8,6 +8,7 @@ struct Page2: StaticPage {
         Group {
             Text("A second page")
                 .font(.title1)
+            
         }
         .padding(.top,.extraLarge)
         .margin()
