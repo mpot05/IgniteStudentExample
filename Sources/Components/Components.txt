@@ -1,1 +1,1 @@
-Put common reusable components of your website in here. Example being a navbar that you want on the top of every page or a company logo at the bottom.
+Put common reusable components of your website in here. Example being a navbar that you want on the top of every page or a company logo at the bottom. To implement them into your website, create an instance of it in MainTheme.swift.
