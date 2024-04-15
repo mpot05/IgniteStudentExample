@@ -9,7 +9,8 @@ struct Home: StaticPage {
             Text("Hello world!")
                 .font(.title1)
             
-        }.padding(.top, .extraLarge)
+        }
+         .padding(.top, .extraLarge)
          .margin()
     }
 }
