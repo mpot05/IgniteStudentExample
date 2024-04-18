@@ -17,7 +17,7 @@ struct IgniteWebsite {
 struct ExampleSite: Site {    
     var name = "Hello World"
     var baseTitle = " – My Awesome Site"
-    var url = URL("https://www.example.com")
+    var url = URL("https://www.example.com/GitRepoName/")
     var builtInIconsEnabled = true
     var syntaxHighlighters = [SyntaxHighlighter.swift, .python, .ruby, .java]
     var author = "John Appleseed"
